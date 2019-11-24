@@ -7,4 +7,13 @@ header:
   image: "/images/skypick.jpg"
 ---
 
-Test run
+# Current Projects
+
+Innovations at the Nexus of Food, Energy and Water Systems
+
+NASA SnowEX
+
+
+# Old Projects
+
+MCM LTER
