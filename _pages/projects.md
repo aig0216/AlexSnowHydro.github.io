@@ -36,6 +36,7 @@ SnowEx is a five year program initiated and funded by NASA THP to address the mo
 ## Old Projects
 
 **McMurdo Dry Valleys, Antartica Stream Team, MCM LTER**
+
 Collaborators: Dr. Dian McKnight, Dr. Michael Gooseff, Zach Sudman
 
 Funding: National Science Foundation, United State Antarctic Program

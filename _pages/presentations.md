@@ -7,7 +7,7 @@ header:
   image: "/images/skypick.jpg"
 ---
 
-# 2019 --
+# 2019
 
 AGU
 
