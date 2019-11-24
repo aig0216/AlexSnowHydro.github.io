@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Mikey Johnson"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "images/skypick.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "PhD Student"
   location         : "Reno, NV"
   email            : "mikeyj@nevada.unr.edu"
@@ -292,3 +292,11 @@ defaults:
       comments: # true
       share: true
       related: true
+
+# _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_porfile: true
