@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/skypick.jpg"
+  image: "/images/streamteam.jpg"
 ---
 
 I'm a PhD student in the Graduate Program of Hydrologic Sciences at the
