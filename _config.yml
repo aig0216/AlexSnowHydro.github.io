@@ -299,4 +299,4 @@ defaults:
       type: pages
     values:
       layout: single
-      author_porfile: true
+      author_profile: true
